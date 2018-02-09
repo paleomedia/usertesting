@@ -48,6 +48,12 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.letterSelectors {
+		font-size: 4em;
+		font-weight: bold;
+		text-align: center;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
